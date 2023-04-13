@@ -10,7 +10,7 @@ Il s'agit d'un repository sur le mémoire du master HN 22-24: Le sacrifice des a
  ```
 Liste des animaux et mots clés  
 * __犬__ 568  
-* __鹿__ 366
+* __鹿__ 363
 * __彘__ 198
 * __鸡__ 23
 * __豹__ 19  
